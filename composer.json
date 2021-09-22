@@ -1,0 +1,24 @@
+{
+  "name": "pmpr/wp-pkg-woocommerce",
+  "type": "project",
+  "license": "proprietary",
+  "description": "Woocommerce Package for Wordpress",
+  "keywords": [
+    "woocommerce",
+    "wordpress",
+    "package"
+  ],
+  "require": {
+    "php": ">=7.4",
+    "pmpr/wp-cmn-foundation": "dev-main"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pmpr\\Package\\Woocommerce\\": "src/Pmpr/Package/Woocommerce"
+    },
+    "files": [
+      "index.php"
+    ]
+  },
+  "minimum-stability": "dev"
+}
