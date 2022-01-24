@@ -4,4 +4,4 @@
     |             61eed0d6a91b5             |
     |_______________________________________|
 */
- use Pmpr\Package\Woocommerce\Woocommerce; Woocommerce::symcgieuakksimmu();
+ namespace Pmpr\Package\Woocommerce\Invoice; class Test extends Common { }
