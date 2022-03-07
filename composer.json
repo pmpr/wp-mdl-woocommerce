@@ -10,7 +10,9 @@
   ],
   "require": {
     "php": ">=7.4",
-    "pmpr-cmn/wp-cmn-foundation": "dev-main"
+    "dompdf/dompdf": "v1.1.1",
+    "pmpr-cmn/wp-cmn-foundation": "dev-main",
+    "picqer/php-barcode-generator": "v2.2.0"
   },
   "autoload": {
     "psr-4": {
