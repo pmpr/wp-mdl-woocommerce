@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             622fca27aa7f0             |
+    |             623657ab805c3             |
     |_______________________________________|
 */
  namespace Pmpr\Package\Woocommerce\Invoice; class Test extends Common { }
