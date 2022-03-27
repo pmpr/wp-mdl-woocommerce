@@ -1,5 +1,5 @@
 {
-  "name": "pmpr-pkg/wp-pkg-woocommerce",
+  "name": "pmpr-mod/wp-mod-woocommerce",
   "type": "project",
   "license": "proprietary",
   "description": "Woocommerce Package for Wordpress",
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Pmpr\\Package\\Woocommerce\\": "src/Pmpr/Package/Woocommerce"
+      "Pmpr\\Module\\Woocommerce\\": "src/Pmpr/Module/Woocommerce"
     },
     "files": [
       "index.php"

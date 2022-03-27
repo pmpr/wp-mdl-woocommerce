@@ -22,95 +22,95 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: lib\n"
 "X-Poedit-SearchPathExcluded-1: *.js\n"
 
-#: src/Pmpr/Package/Woocommerce/Checkout.php:70
+#: src/Pmpr/Module/Woocommerce/Checkout.php:70
 msgid "Please log in or register to complete your purchase."
 msgstr "لطفا ثبت‌نام کنید یا وارد شوید تا عملیات پرداخت را ادامه دهید."
 
-#: src/Pmpr/Package/Woocommerce/ListTable/ProductCustomer.php:37
+#: src/Pmpr/Module/Woocommerce/ListTable/ProductCustomer.php:37
 msgid "Customers"
 msgstr "مشتریان"
 
-#: src/Pmpr/Package/Woocommerce/ListTable/ProductCustomer.php:38
+#: src/Pmpr/Module/Woocommerce/ListTable/ProductCustomer.php:38
 msgid "Customer"
 msgstr "مشتری"
 
-#: src/Pmpr/Package/Woocommerce/ListTable/ProductCustomer.php:64
+#: src/Pmpr/Module/Woocommerce/ListTable/ProductCustomer.php:64
 msgid "User"
 msgstr "کاربر"
 
-#: src/Pmpr/Package/Woocommerce/ListTable/ProductCustomer.php:65
+#: src/Pmpr/Module/Woocommerce/ListTable/ProductCustomer.php:65
 msgid "Orders"
 msgstr "سفارش‌ها"
 
-#: src/Pmpr/Package/Woocommerce/ListTable/ProductCustomer.php:83
+#: src/Pmpr/Module/Woocommerce/ListTable/ProductCustomer.php:83
 #, php-format
 msgid "%s Orders"
 msgstr "%s سفارش‌"
 
-#: src/Pmpr/Package/Woocommerce/ListTable/ProductCustomer.php:93
+#: src/Pmpr/Module/Woocommerce/ListTable/ProductCustomer.php:93
 #, php-format
 msgid "No customer bought %s product."
 msgstr "هیچ مشتری محصول %s خریداری نکرده است."
 
-#: src/Pmpr/Package/Woocommerce/Setting.php:36
+#: src/Pmpr/Module/Woocommerce/Setting.php:36
 msgid "Show price short"
 msgstr "نمایش کوتاه‌تر قیمت"
 
-#: src/Pmpr/Package/Woocommerce/Setting.php:38
+#: src/Pmpr/Module/Woocommerce/Setting.php:38
 msgid "Short Price"
 msgstr "کوتاه سازی قیمت"
 
-#: src/Pmpr/Package/Woocommerce/Setting.php:56
+#: src/Pmpr/Module/Woocommerce/Setting.php:56
 msgid "Shop items per page"
 msgstr "تعداد آیتم در هر صفحه فروشگاه"
 
-#: src/Pmpr/Package/Woocommerce/Setting.php:60
+#: src/Pmpr/Module/Woocommerce/Setting.php:60
 msgid "Attributes tab title"
 msgstr "عنوان تب ویژگی‌ها"
 
-#: src/Pmpr/Package/Woocommerce/Setting.php:61
+#: src/Pmpr/Module/Woocommerce/Setting.php:61
 msgid "Additional Information"
 msgstr "اطلاعات بیشتر"
 
-#: src/Pmpr/Package/Woocommerce/Setting.php:64
+#: src/Pmpr/Module/Woocommerce/Setting.php:64
 msgid "Variation Product Guide"
 msgstr "راهنمای تنوع محصولات"
 
-#: src/Pmpr/Package/Woocommerce/Setting.php:130
+#: src/Pmpr/Module/Woocommerce/Setting.php:130
 #, php-format
 msgid "%s Item"
 msgstr "آیتم‌ %s"
 
-#: src/Pmpr/Package/Woocommerce/Woocommerce.php:99
+#: src/Pmpr/Module/Woocommerce/Woocommerce.php:99
 msgid "Sort by:"
 msgstr "مرتب سازی بر اساس:"
 
-#: src/Pmpr/Package/Woocommerce/Woocommerce.php:150
+#: src/Pmpr/Module/Woocommerce/Woocommerce.php:150
 msgid "WooCommerce"
 msgstr "ووکامرس"
 
-#: src/Pmpr/Package/Woocommerce/Woocommerce.php:154
+#: src/Pmpr/Module/Woocommerce/Woocommerce.php:154
 msgid "Woocommerce Price"
 msgstr "قیمت ووکامرس"
 
-#: src/Pmpr/Package/Woocommerce/Woocommerce.php:155
+#: src/Pmpr/Module/Woocommerce/Woocommerce.php:155
 msgid "Convert price of products in woocommerce."
 msgstr "تبدیل قیمت محصولات در افزونه ووکامرس."
 
-#: src/Pmpr/Package/Woocommerce/Woocommerce.php:216
+#: src/Pmpr/Module/Woocommerce/Woocommerce.php:216
 #, php-format
 msgid "%s days left!"
 msgstr "فقط تا %s روز دیگر!"
 
-#: src/Pmpr/Package/Woocommerce/Woocommerce.php:248
+#: src/Pmpr/Module/Woocommerce/Woocommerce.php:248
 msgid "Thousands"
 msgstr "هزار"
 
-#: src/Pmpr/Package/Woocommerce/Woocommerce.php:249
+#: src/Pmpr/Module/Woocommerce/Woocommerce.php:249
 msgid "Millions"
 msgstr "میلیون"
 
-#: src/Pmpr/Package/Woocommerce/Woocommerce.php:250
+#: src/Pmpr/Module/Woocommerce/Woocommerce.php:250
 msgid "Billions"
 msgstr "میلیارد"
 
