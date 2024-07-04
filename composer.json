@@ -9,13 +9,13 @@
     "package"
   ],
   "require": {
-    "php": ">=8.3",
+    "php": ">=8.2",
     "dompdf/dompdf": "v1.1.1",
     "pmpr-cmn/wp-cmn-foundation": "~1.4",
     "picqer/php-barcode-generator": "v2.2.0"
   },
   "prod-require": {
-    "php": "8.3",
+    "php": "8.2",
     "wordpress": "6.0",
     "wp-cmn-foundation": "latest"
   },
@@ -28,5 +28,5 @@
     ]
   },
   "minimum-stability": "dev",
-  "tag": "1.1.30"
+  "tag": "1.1.31"
 }
