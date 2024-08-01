@@ -10,7 +10,6 @@
   ],
   "require": {
     "php": ">=8.2",
-    "dompdf/dompdf": "v1.1.1",
     "pmpr-cmn/wp-cmn-foundation": "~1.4",
     "picqer/php-barcode-generator": "v2.2.0"
   },
@@ -28,5 +27,5 @@
     ]
   },
   "minimum-stability": "dev",
-  "tag": "1.1.32"
+  "tag": "1.1.33"
 }
